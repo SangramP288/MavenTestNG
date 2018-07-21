@@ -1,2 +1,0 @@
-# MavenTestNG
-DevOps Maven TestNG
